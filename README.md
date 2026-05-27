@@ -13,7 +13,7 @@ This repo contains 3 main parts:
 
 
 # Building it
-The final result is available here: https://aerial-screensavers.netlify.com a deployed version of the gatsby site.
+The final result is available here: https://aerial-screensavers.netlify.app a deployed version of the gatsby site.
 
 You can and run build it yourself with
 ```sh
